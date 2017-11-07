@@ -1,6 +1,3 @@
-springCloudDependenciesVersion = "Camden.SR4"
-springCloudServicesVersion = "1.3.4.RELEASE"
-
 apply plugin: "org.springframework.boot"
 apply plugin: "io.spring.dependency-management"
 
