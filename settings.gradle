@@ -21,5 +21,6 @@ include "databases:allocations-database"
 include "databases:backlog-database"
 include "databases:registration-database"
 include "databases:timesheets-database"
+include "platform-services:oauth-server"
 
 include "integration-test"
